@@ -1,0 +1,11 @@
+Ahojte, posielam domacu ulohu na dokoncenie eshop vo vue iba FE. budeme na to nasledne v januari napajat BE a ucit sa vytvarat a pracovat s API a databazou.
+Co ma eshop obsahovat:
+- Zoznam produktov natiahnutych z json suboru a vyrenderovany vo vue cez v-for component produkt.
+
+- Kazda produkt karta by mala mat nazov, popisok, fotku, kategoriu, cenu a moznost pridat do kosiku produkt (vsetko navyse je na vas)
+
+- spravte si ze produkty na home page budu mat moznost pouzivatelia filltrovat podla inputu (text), ceny (od do) a kategorii
+
+- Naintegrujte si nejaky drawer komponent, ktory bude kosik -> funkcnost bude taka, ze ked pridate nejaky produkt do kosiku tak sa automaticky otvori a zobrazi co v nom je, kde budu moznosti pridat viac tych istych produktov (zmenit pocet), vymazat proudkt alebo kupit produkty (tlacitko kupit vyhodi alert ze dakujeme za nakup bla bla bla a vymaze vsetko z kosiku) - na alert pouzite tiez nejaku kniznicu (primevue, alebo ine. necham na vas)
+
+- takisto by kosik mal byt v headeri dostupny, aby pouzivatel si vedel kedykolvek produkty v kosiku pozriet. pri ikonke kosiku by malo vzdy ak su tam nejake produkty svietit kolko produktov v kosiku je (ciselko pri ikonke kosiku)

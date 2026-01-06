@@ -1,0 +1,650 @@
+{
+    "categories": [
+        {
+            "title": "Špeci ponuka",
+            "type": "main_page"
+        },
+        {
+            "title": "Novinky",
+            "type": "main_page"
+        },
+        {
+            "title": "Rapture",
+            "type": "brand"
+        },
+        {
+            "title": "Apple",
+            "type": "brand"
+        },
+
+        
+        {
+            "title":"Oura",
+            "type":"brand"
+        },
+        {
+            "title":"SONY",
+            "type":"brand"
+        },
+        {
+            "title":"Xiaomi",
+            "type":"brand"
+        },
+        {
+            "title":"JBL",
+            "type":"brand"
+        },
+        {
+            "title":"Samsung",
+            "type":"brand"
+        },
+        {
+            "title":"Dark Project",
+            "type":"brand"
+        },
+        {
+            "title":"De'Longhi",
+            "type":"brand"
+        },
+        {
+            "title":"LANVIN",
+            "type":"brand"
+        },
+        {
+            "title":"LEGO",
+            "type":"brand"
+        },
+        {
+            "title":"Panasonic",
+            "type":"brand"
+        },
+        {
+            "title":"JURA",
+            "type":"brand"
+        },
+        {
+            "title":"Lenovo",
+            "type":"brand"
+        },
+        {
+            "title":"AlzaPower",
+            "type":"brand"
+        },
+        {
+            "title":"Eternico",
+            "type":"brand"
+        },
+        {
+            "title":"Siguro",
+            "type":"brand"
+        },
+
+        {
+            "title": "Vysávače",
+            "type": "category"
+        },
+        {
+            "title": "Nositelné zariadenia",
+            "type": "category"
+        },
+        {
+            "title": "Zábava",
+            "type": "category"
+        },
+        {
+            "title": "Gaming",
+            "type": "category"
+        },
+        {
+            "title": "Hudba",
+            "type": "category"
+        },
+        {
+            "title": "Spotrebiče",
+            "type": "category"
+        },
+        {
+            "title": "Počítače",
+            "type": "category"
+        },
+        {
+            "title": "Príslušenstvo",
+            "type": "category"
+        }
+    ],
+    "products": [
+        {
+            "img": "https://image.alza.cz/products/XIARV556/XIARV556.jpg?width=190&height=190",
+            "eur": 359.9,
+            "title": "Xiaomi Robot Vacuum X20+",
+            "url": "https://www.alza.sk/xiaomi-robot-vacuum-x20-d12293091.htm",
+            "rating": 4.8,
+            "rating_count": 419,
+            "category": [0],
+            "desc": "Robotický vysávač s mopom – na zvieracie chlpy a antibakteriálny, na koberce, tvrdé podlahy a hladké podlahy, na suché čistenie, umývateľný filter, automatické dobíjanie, senzor proti nárazu a automatické vysypanie, ovládanie mobilnou aplikáciou, plastová zberná nádoba, 2 bočné kefy, laserová navigácia, doba prevádzky 180 min, doba nabíjania 6,5 h, hlučnosť 60 dB, príkon 215 W"
+        },
+        {
+            "img": "https://image.alza.cz/products/OURAr4sax/OURAr4sax.jpg?width=190&height=190",
+            "eur": 279,
+            "title": "Oura Ring 4 Silver",
+            "url": "https://www.alza.sk/oura-ring-4-silver-d12990357.htm",
+            "rating": 4,
+            "rating_count": 15,
+            "category": [0],
+            "desc": "Inteligentný prsteň – meranie saturácie kyslíka v krvi, monitoring spánku, meranie úrovne stresu, meranie telesnej teploty, sledovanie menštruačného cyklu a meranie pulzu, vodotesnosť 100 m (10 ATM), bezdrôtová technológia Bluetooth, kompatibilné s Android a iOS, max. výdrž batérie 192 h"
+        },
+        {
+            "img": "https://image.alza.cz/products/MSX005DE3/MSX005DE3.jpg?width=190&height=190",
+            "eur": 364,
+            "title": "PlayStation 5 (Slim) Digital Edition - 825GB",
+            "url": "https://www.alza.sk/gaming/playstation-5-slim-digital-edition-825gb-d13070129.htm",
+            "rating": 4.8,
+            "rating_count": 2058,
+            "category": [0],
+            "desc": "Herná konzola k televízoru – SSD 825 GB, bez mechaniky (neprehráva fyzické disky), možnosť hrania v 4K, menu v češtine, 1× herný ovládač v balení, biela farba"
+        },
+        {
+            "img": "https://image.alza.cz/products/JJ090g9n01/JJ090g9n01.jpg?width=190&height=190",
+            "eur": 119,
+            "title": "JBL Charge 5 čierny",
+            "url": "https://www.alza.sk/jbl-charge-5-cierny-d6369354.htm",
+            "rating": 4.9,
+            "rating_count": 713,
+            "category": [0],
+            "desc": "Bluetooth reproduktor – aktívny, s výkonom 40 W, k mobilu, s USB napájaním, frekvenčný rozsah od 65 Hz do 20000 Hz, Bluetooth 5.1, certifikácia IP67, ovládanie cez zariadenia s OS iOS alebo Android, výdrž batérie 20 h"
+        },
+        {
+            "img": "https://image.alza.cz/products/WR174d5/WR174d5.jpg?width=190&height=190",
+            "eur": 359,
+            "title": "55\" Samsung UE55U8072",
+            "url": "https://www.alza.sk/55-samsung-ue55u8072-d12899187.htm",
+            "rating": 4.7,
+            "rating_count": 31,
+            "category": [0],
+            "desc": "Televízor – SMART, LED, 139 cm, 4K Ultra HD, 50/60 Hz, HDR10+, lokálne stmievanie, DVB-T2/S2/C, 3× HDMI, 1× USB, LAN, Bluetooth, DLNA, HbbTV 2.0.3, herný režim, Apple Airplay 2, párovanie s mobilným zariadením, Tizen, Oneplay, VESA 200 × 200, repro 20 W, Dolby Digital Plus, energetická trieda G"
+        },
+        {
+            "img": "https://image.alza.cz/products/SKXI295b1/SKXI295b1.jpg?width=190&height=190",
+            "eur": 199,
+            "title": "Xiaomi Redmi Note 14 Pro 8 GB/256 GB Black",
+            "url": "https://www.alza.sk/xiaomi-redmi-note-14-pro-8-gb-256-gb-black-d12751688.htm",
+            "rating": 4.8,
+            "rating_count": 329,
+            "category": [0],
+            "desc": "Mobilný telefón – 6,67\" P-OLED 2400 × 1080 (120 Hz), operačná pamäť 8 GB, vnútorná pamäť 256 GB, hybridný slot, procesor MediaTek Helio G100-Ultra, fotoaparát: 200 Mpx (f/1,5) hlavný + 8 Mpx + 2 Mpx makro, predná kamera 32 Mpx, čítačka odtlačkov prstov, GPS, NFC, LTE, Jack (3,5 mm) a USB-C, rýchle nabíjanie 45 W, batéria 5500 mAh, model 2025, Android"
+        },
+        {
+            "img": "https://image.alza.cz/products/JJ95t245/JJ95t245.jpg?width=190&height=190",
+            "eur": 59.9,
+            "title": "JBL Tune 245 TWS",
+            "url": "https://www.alza.sk/jbl-tune-245-tws-d12993310.htm",
+            "rating": 4.4,
+            "rating_count": 61,
+            "category": [0],
+            "desc": "Bezdrôtové slúchadlá – s mikrofónom, True Wireless, štuple, aktívne potlačenie hluku (ANC), uzatvorená konštrukcia, Bluetooth 5.3, Ambient sound, prepínanie skladieb, prijímanie hovorov, certifikácia IP54, frekvenčný rozsah 20–20000 Hz, impedancia 16 Ohm, menič 6 mm, výdrž batérie až 48 h (12 h+36 h)"
+        },
+        {
+            "img": "https://image.alza.cz/products/LO42206/LO42206.jpg?width=190&height=190",
+            "eur": 156.7,
+            "title": "LEGO® Technic 42206 Auto Oracle Red Bull Racing RB20 F1",
+            "url": "https://www.alza.sk/hracky/lego-technic-42206-auto-oracle-red-bull-racing-rb20-f1-d12722624.htm",
+            "rating": 4.9,
+            "rating_count": 594,
+            "category": [0],
+            "desc": "LEGO stavebnica - pre dospelých, vhodné od 18 rokov, rad LEGO® Technic, rok uvedenia 2025 – novinky, balenie obsahuje 1639 dielikov"
+        },
+        {
+            "img": "https://image.alza.cz/products/SAS990p5/SAS990p5.jpg?width=190&height=190",
+            "eur": 163.9,
+            "title": "Samsung 990 PRO 2 TB",
+            "url": "https://www.alza.sk/samsung-990-pro-2-tb-d7516910.htm",
+            "rating": 4.9,
+            "rating_count": 934,
+            "category": [0],
+            "desc": "SSD disk 2000 GB – M.2 (PCIe 4.0 4x NVMe), TLC (Triple-Level Cell), rýchlosť čítania 7450 MB/s, rýchlosť zápisu 6900 MB/s, životnosť 1200 TBW, typická spotreba 8,5 W, stand-by spotreba (pohotovostná) 0,055 W, rozmery 22 × 2,3 × 80 mm (Š×V×H), hmotnosť 9 g"
+        },
+        {
+            "img": "https://image.alza.cz/products/DPhklav38/DPhklav38.jpg?width=190&height=190",
+            "eur": 40.9,
+            "title": "Dark Project ALU Fuji II - US",
+            "url": "https://www.alza.sk/dark-project-alu-fuji-ii-us-d13081344.htm",
+            "rating": 5,
+            "rating_count": 57,
+            "category": [0],
+            "desc": "Herná klávesnica – mechanický spínač G3ms Sapphire, drôtová, dynamické podsvietenie, klasické (vysokoprofilové) klávesy, makro programovateľné klávesy, americká lokalizácia klávesov, USB-A, tichá, biela farba, rozmery 4,2 × 36,5 × 13,7 cm (V×Š×H)"
+        },
+        {
+            "img": "https://image.alza.cz/products/DELAK372/DELAK372.jpg?width=190&height=190",
+            "eur": 344.9,
+            "title": "De'Longhi Magnifica Evo ECAM 290.31.SB",
+            "url": "https://www.alza.sk/delonghi-magnifica-evo-ecam-290-31-sb-d6638994.htm",
+            "rating": 4.7,
+            "rating_count": 187,
+            "category": [0],
+            "desc": "Automatický kávovar – s mlynčekom s kapacitou 250 g, do domácnosti, príkon 1450 W, tlak 15 bar, objem nádržky na vodu 1,8 l, automatické vypnutie, s funkciou horúcej vody, možnosť prípravy dvoch šálok zároveň, pripravuje nápoj jedným stlačením, nádoba na vodu, zásobník na mletú kávu, naparovacia tryska, signalizácia potreby odvápnenia/čistenia, režim úspory energie, nastaviteľná tvrdosť vody, automatické preplachovanie a kontrola výmeny vodného filtra, výškovo nastaviteľný výpust, odkladacia plocha na šálky a nahrievanie šálok, nastavenie teploty nápoja, intenzity/množstva kávy, rozmery 36 × 24 × 44 cm (V×Š×H), hmotnosť 9,44 kg"
+        },
+        {
+            "img": "https://image.alza.cz/products/KPFB844/KPFB844.jpg?width=190&height=190",
+            "eur": 26.32,
+            "title": "LANVIN Eclat D'Arpege EdP 100 ml",
+            "url": "https://www.alza.sk/beauty/lanvin-eclat-darpege-edp-100-ml-d131604.htm",
+            "rating": 4.8,
+            "rating_count": 1165,
+            "category": [0],
+            "desc": "Parfumovaná voda – pre ženy, kvetinová hlavná vôňa, vedľajšia vôňa zelená, vonná zložka céder, mošus (pižmo) a zelený čaj, objem 100 ml - 399 €/1 l"
+        },
+        {
+            "img": "https://image.alza.cz/products/LO42207/LO42207.jpg?width=190&height=190",
+            "eur": 169.1,
+            "title": "LEGO® Technic 42207 Auto Ferrari SF-24 F1",
+            "url": "https://www.alza.sk/hracky/lego-technic-42207-auto-ferrari-sf-24-f1-d12707007.htm",
+            "rating": 4.9,
+            "rating_count": 594,
+            "category": [0],
+            "desc": "LEGO stavebnica - pre dospelých, vhodné od 18 rokov, rad LEGO® Technic, rok uvedenia 2025 – novinky, balenie obsahuje 1361 dielikov"
+        },
+        {
+            "img": "https://image.alza.cz/products/NL271a1a1/NL271a1a1.jpg?width=190&height=190",
+            "eur": 1849,
+            "title": "MacBook Pro 14\" M5 SK 2025 Kozmický čierny",
+            "url": "https://www.alza.sk/macbook-pro-14-m5-sk-2025-kozmicky-cierny-d13128458.htm",
+            "rating": 403,
+            "rating_count": 4.9,
+            "category": [3],
+            "desc": "MacBook – Apple M5 (10jádrový), 14,2\" Liquid Retina XDR lesklý 3024 × 1964 px, 120 Hz, RAM 16 GB, Apple Apple M5 10jádrová GPU, SSD 512 GB, podsvietená klávesnica, webkamera, čítačka odtlačkov prstov, WiFi 6E, WiFi, Bluetooth, hmotnosť 1,55 kg, macOS"
+        },
+        {
+            "img": "https://image.alza.cz/products/NL238s4z1a/NL238s4z1a.jpg?width=190&height=190",
+            "eur": 1479,
+            "title": "iPad Pro M513\" 256 GB kozmický čierny 2025",
+            "url": "https://www.alza.sk/ipad-pro-m5-13-256-gb-kozmicky-cierny-2025-d13128572.htm",
+            "rating": 5,
+            "rating_count": 3,
+            "category": [3],
+            "desc": "Tablet – displej 13\" QHD 2752 × 2064 Ultra Retina XDR, RAM 12 GB, kapacita úložiska 256 GB, WiFi, Bluetooth, zadný fotoaparát 12 Mpx, USB-C, 70 W rýchle nabíjanie, batéria 10290 mAh, iPad OS 26"
+        },
+        {
+            "img": "https://image.alza.cz/products/NL236s4z1a/NL236s4z1a.jpg?width=190&height=190",
+            "eur": 1129,
+            "title": "iPad Pro M511\" 256 GB kozmický čierny 2025",
+            "url": "https://www.alza.sk/ipad-pro-m5-11-256-gb-kozmicky-cierny-2025-d13128541.htm",
+            "rating": 5,
+            "rating_count": 1,
+            "category": [3],
+            "desc": "Tablet – displej 11\" QHD 2420 × 1668 Ultra Retina XDR, Apple M5 s 10-jadrovou GPU, RAM 12 GB, kapacita úložiska 256 GB, WiFi, Bluetooth, zadný fotoaparát 12 Mpx, USB-C, 60 W rýchle nabíjanie, batéria 8160 mAh, iPad OS 26"
+        },
+        {
+            "img": "https://image.alza.cz/products/RI056b2/RI056b2.jpg?width=190&height=190",
+            "eur": 1489,
+            "title": "iPhone 17 Pro Max 256 GB kozmický oranžový",
+            "url": "https://www.alza.sk/iphone-17-pro-max-256-gb-kozmicky-oranzovy-d13078800.htm",
+            "rating": 4.8,
+            "rating_count": 56,
+            "category": [3],
+            "desc": "Mobilný telefón – 6,9\" Super Retina XDR OLED 2868 × 1320 (120 Hz), operačná pamäť 12 GB, vnútorná pamäť 256 GB, single SIM + eSIM, procesor Apple A19 Pro, fotoaparát: 48 Mpx (f/1,78) hlavný + 48 Mpx širokouhlý + 48 Mpx teleobjektív, predná kamera 18 Mpx, GPS, NFC, LTE, 5G, USB-C, vodoodolný podľa IP68, rýchle nabíjanie 36 W, bezdrôtové nabíjanie 25 W, batéria 4823 mAh, model 2025, iOS"
+        },
+        {
+            "img": "https://image.alza.cz/products/RI055b2/RI055b2.jpg?width=190&height=190",
+            "eur": 1339,
+            "title": "iPhone 17 Pro 256 GB kozmický oranžový",
+            "url": "https://www.alza.sk/iphone-17-pro-256-gb-kozmicky-oranzovy-d13078787.htm",
+            "rating": 4.9,
+            "rating_count": 100,
+            "category": [3],
+            "desc": "Mobilný telefón – 6,3\" Super Retina XDR OLED 2622 × 1206 (120 Hz), operačná pamäť 12 GB, vnútorná pamäť 256 GB, single SIM + eSIM, procesor Apple A19 Pro, fotoaparát: 48 Mpx (f/1,78) hlavný + 48 Mpx širokouhlý + 48 Mpx teleobjektív + 48 Mpx makro, predná kamera 18 Mpx, GPS, NFC, LTE, 5G, USB-C, vodoodolný podľa IP68, rýchle nabíjanie 36 W, batéria 3988 mAh, model 2025, iOS"
+        },
+        {
+            "img": "https://image.alza.cz/products/RI054b5/RI054b5.jpg?width=190&height=190",
+            "eur": 978.9,
+            "title": "iPhone 17256 GB levanduľový",
+            "url": "https://www.alza.sk/iphone-17-256-gb-levandulovy-d13078769.htm",
+            "rating": 4.9,
+            "rating_count": 56,
+            "category": [3],
+            "desc": "Mobilný telefón – 6,3\" Super Retina XDR OLED 2622 × 1206 (120 Hz), operačná pamäť 8 GB, vnútorná pamäť 256 GB, single SIM + eSIM, procesor Apple A19, fotoaparát: 48 Mpx (f/1,6) hlavný + 48 Mpx širokouhlý, predná kamera 18 Mpx, GPS, NFC, LTE, 5G, USB-C, vodoodolný podľa IP68, rýchle nabíjanie 35 W, bezdrôtové nabíjanie 25 W, batéria 3692 mAh, model 2025, iOS"
+        },
+        {
+            "img": "https://image.alza.cz/products/RI057b1/RI057b1-SK.jpg?width=190&height=190",
+            "eur": 1239,
+            "title": "iPhone Air 256 GB kozmický čierny",
+            "url": "https://www.alza.sk/iphone-air-256-gb-kozmicky-cierny-d13078782.htm",
+            "rating": 4.8,
+            "rating_count": 38,
+            "category": [3],
+            "desc": "Mobilný telefón – 6,5\" Super Retina XDR OLED 2736 × 1206 (120 Hz), operačná pamäť 12 GB, vnútorná pamäť 256 GB, eSIM, procesor Apple A19 Pro, fotoaparát: 48 Mpx (f/1,6), predná kamera 18 Mpx, GPS, NFC, LTE, 5G, USB-C, vodoodolný podľa IP68, rýchle nabíjanie 35 W, bezdrôtové nabíjanie 25 W, batéria 3149 mAh, model 2025, iOS"
+        },
+        {
+            "img": "https://image.alza.cz/products/RI054b4/RI054b4.jpg?width=190&height=190",
+            "eur": 978.9,
+            "title": "iPhone 17256 GB šalviovo zelený",
+            "url": "https://www.alza.sk/iphone-17-256-gb-salviovo-zeleny-d13078768.htm",
+            "rating": 4.9,
+            "rating_count": 56,
+            "category": [3],
+            "desc": "Mobilný telefón – 6,3\" Super Retina XDR OLED 2622 × 1206 (120 Hz), operačná pamäť 8 GB, vnútorná pamäť 256 GB, single SIM + eSIM, procesor Apple A19, fotoaparát: 48 Mpx (f/1,6) hlavný + 48 Mpx širokouhlý, predná kamera 18 Mpx, GPS, NFC, LTE, 5G, USB-C, vodoodolný podľa IP68, rýchle nabíjanie 35 W, bezdrôtové nabíjanie 25 W, batéria 3692 mAh, model 2025, iOS"
+        },
+        {
+            "img": "https://image.alza.cz/products/RI055b3/RI055b3.jpg?width=190&height=190",
+            "eur": 1339,
+            "title": "iPhone 17 Pro 256 GB strieborný",
+            "url": "https://www.alza.sk/iphone-17-pro-256-gb-strieborny-d13078788.htm",
+            "rating": 4.9,
+            "rating_count": 100,
+            "category": [3],
+            "desc": "Mobilný telefón – 6,3\" Super Retina XDR OLED 2622 × 1206 (120 Hz), operačná pamäť 12 GB, vnútorná pamäť 256 GB, single SIM + eSIM, procesor Apple A19 Pro, fotoaparát: 48 Mpx (f/1,78) hlavný + 48 Mpx širokouhlý + 48 Mpx teleobjektív + 48 Mpx makro, predná kamera 18 Mpx, GPS, NFC, LTE, 5G, USB-C, vodoodolný podľa IP68, rýchle nabíjanie 36 W, batéria 3988 mAh, model 2025, iOS"
+        },
+        {
+            "img": "https://image.alza.cz/products/RI054b1/RI054b1-SK.jpg?width=190&height=190",
+            "eur": 978.9,
+            "title": "iPhone 17256 GB čierny",
+            "url": "https://www.alza.sk/iphone-17-256-gb-cierny-d13078770.htm",
+            "rating": 4.9,
+            "rating_count": 56,
+            "category": [3],
+            "desc": "Mobilný telefón – 6,3\" Super Retina XDR OLED 2622 × 1206 (120 Hz), operačná pamäť 8 GB, vnútorná pamäť 256 GB, single SIM + eSIM, procesor Apple A19, fotoaparát: 48 Mpx (f/1,6) hlavný + 48 Mpx širokouhlý, predná kamera 18 Mpx, GPS, NFC, LTE, 5G, USB-C, vodoodolný podľa IP68, rýchle nabíjanie 35 W, bezdrôtové nabíjanie 25 W, batéria 3692 mAh, model 2025, iOS"
+        },
+        {
+            "img": "https://image.alza.cz/products/RI057b2/RI057b2-SK.jpg?width=190&height=190",
+            "eur": 1239,
+            "title": "iPhone Air 256 GB hviezdny biely",
+            "url": "https://www.alza.sk/iphone-air-256-gb-hviezdny-biely-d13078785.htm",
+            "rating": 4.8,
+            "rating_count": 38,
+            "category": [3],
+            "desc": "Mobilný telefón – 6,5\" Super Retina XDR OLED 2736 × 1206 (120 Hz), operačná pamäť 12 GB, vnútorná pamäť 256 GB, eSIM, procesor Apple A19 Pro, fotoaparát: 48 Mpx (f/1,6), predná kamera 18 Mpx, GPS, NFC, LTE, 5G, USB-C, vodoodolný podľa IP68, rýchle nabíjanie 35 W, bezdrôtové nabíjanie 25 W, batéria 3149 mAh, model 2025, iOS"
+        },
+        {
+            "img": "https://image.alza.cz/products/RI055b1/RI055b1.jpg?width=190&height=190",
+            "eur": 1339,
+            "title": "iPhone 17 Pro 256 GB polnočný",
+            "url": "https://www.alza.sk/iphone-17-pro-256-gb-polnocny-d13078791.htm",
+            "rating": 4.9,
+            "rating_count": 100,
+            "category": [3],
+            "desc": "Mobilný telefón – 6,3\" Super Retina XDR OLED 2622 × 1206 (120 Hz), operačná pamäť 12 GB, vnútorná pamäť 256 GB, single SIM + eSIM, procesor Apple A19 Pro, fotoaparát: 48 Mpx (f/1,78) hlavný + 48 Mpx širokouhlý + 48 Mpx teleobjektív + 48 Mpx makro, predná kamera 18 Mpx, GPS, NFC, LTE, 5G, USB-C, vodoodolný podľa IP68, rýchle nabíjanie 36 W, batéria 3988 mAh, model 2025, iOS"
+        },
+        {
+            "img": "https://image.alza.cz/products/RI056b3/RI056b3.jpg?width=190&height=190",
+            "eur": 1489,
+            "title": "iPhone 17 Pro Max 256 GB polnočný",
+            "url": "https://www.alza.sk/iphone-17-pro-max-256-gb-polnocny-d13078801.htm",
+            "rating": 4.8,
+            "rating_count": 56,
+            "category": [3],
+            "desc": "Mobilný telefón – 6,9\" Super Retina XDR OLED 2868 × 1320 (120 Hz), operačná pamäť 12 GB, vnútorná pamäť 256 GB, single SIM + eSIM, procesor Apple A19 Pro, fotoaparát: 48 Mpx (f/1,78) hlavný + 48 Mpx širokouhlý + 48 Mpx teleobjektív, predná kamera 18 Mpx, GPS, NFC, LTE, 5G, USB-C, vodoodolný podľa IP68, rýchle nabíjanie 36 W, bezdrôtové nabíjanie 25 W, batéria 4823 mAh, model 2025, iOS"
+        },
+        {
+            "img": "https://image.alza.cz/products/SGR_AD_R650LW/SGR_AD_R650LW.jpg?width=190&height=190",
+            "eur": 35.9,
+            "title": "Siguro AD-R650LW Aroma Glow WiFi",
+            "url": "https://www.alza.sk/siguro-ad-r650lw-aroma-glow-wifi-d13081415.htm",
+            "rating": 3.4,
+            "rating_count": 50,
+            "category": [1],
+            "desc": "Aróma difuzér – ovládanie pomocou mobilnej aplikácie, objem nádoby 400 ml, spotreba energie 12 W, tichá prevádzka (30–36 dB), nastavenie intenzity výdaja pary, časovač na 2 alebo 4 hodiny, automatické vypnutie, 7 farieb podsvietenia, odporúčaná veľkosť miestnosti 20–40 m², je možné používať aj ako zvlhčovač, intenzita zvlhčovania 25–40 ml/h, doba prevádzky až 10 hodín, dĺžka kábla 150 cm, Tri roky záruka"
+        },
+        {
+            "img": "https://image.alza.cz/products/APWBTE020w/APWBTE020w.jpg?width=190&height=190",
+            "eur": 47.9,
+            "title": "AlzaPower Boost PRO ANC, biele",
+            "url": "https://www.alza.sk/alzapower-boost-pro-anc-biele-d13098726.htm",
+            "rating": 4.6,
+            "rating_count": 83,
+            "category": [1],
+            "desc": "Bezdrôtové slúchadlá – štuple, s integrovanými mikrofónmi, True Wireless, hybridné potlačenie hluku (ANC), uzavretá konštrukcia, Bluetooth 5.3, podpora AAC, SBC, HFP, A2DP a AVRCP, hlasový asistent, prepínanie ANC, prepínanie skladieb, prijímanie hovorov, režim nízkej latencie, frekvenčný rozsah 20 – 20 000 Hz, max. výdrž batérie 30 h, v režime Stand-by 31 h, doba nabíjania slúchadla a puzdra 2 h, stupeň krytia IPX5, súčasťou vymeniteľné štuple"
+        },
+        {
+            "img": "https://image.alza.cz/products/ON519q1BN2/ON519q1BN2.jpg?width=190&height=190",
+            "eur": 2698,
+            "title": "Panasonic Lumix DC-S5 Mark IIx + Lumix S 70 – 300 mm F 4,5 – 5,6 Macro OIS",
+            "url": "https://www.alza.sk/panasonic-lumix-dc-s5-mark-iix-lumix-s-70-300-mm-f-4-5-5-6-macro-ois-d13149889.htm",
+            "rating": 4.8,
+            "rating_count": 34,
+            "category": [1],
+            "desc": "Digitálny fotoaparát – bezzrkadlovka, Full Frame 24,2 Mpx, bajonet Leica L, elektronická (EIS) stabilizácia obrazu, max. rýchlosť frekvenčného snímania 30 sn./s, elektronický hľadáčik 0,368 Mpx, otočný/výklopný displej, 6K/60p"
+        },
+        {
+            "img": "https://image.alza.cz/products/ETK800Fa/ETK800Fa.jpg?width=190&height=190",
+            "eur": 65.9,
+            "title": "Eternico K800 Wireless sivá – CZ/SK",
+            "url": "https://www.alza.sk/eternico-k800-wireless-siva-cz-sk-d13135874.htm",
+            "rating": 5,
+            "rating_count": 1,
+            "category": [1],
+            "desc": "Klávesnica – bezdrôtová, vhodná do kancelárie, domácnosti aj na hranie, ISO, 100 % formát (111 kláves), pripojenie až ku 4 zariadeniam (1× 2,4 GHz USB prijímač, 2× Bluetooth 5.0 a 1× USB-C kábel), taktilné spínače Gateron Brown, vstavaná 3 750 mAh batéria, úsporný režim, 12 multimediálnych klávesov, RGB podsvietenie s 22 režimami, zámok klávesy Win, prepínanie medzi Windows a macOS, Plug & Play, česká a slovenská lokalizácia klávesov, opletený nabíjací USB kábel v balení (1,5 m)"
+        },
+        {
+            "img": "https://image.alza.cz/products/JURAK495/JURAK495.jpg?width=190&height=190",
+            "eur": 1249,
+            "title": "JURA E8 Cosmic Black ED",
+            "url": "https://www.alza.sk/jura-e8-cosmic-black-ed-d13129865.htm",
+            "rating": 5,
+            "rating_count": 1,
+            "category": [1],
+            "desc": "Automatický kávovar – s mlynčekom s kapacitou 280 g, do domácnosti, príkon 1450 W, tlak 15 bar, materiál plast, objem nádržky na vodu 1,9 l, inteligentný, možnosť nastavenia obľúbených nápojov, možnosť prípravy dvoch šálok zároveň, pripravuje nápoj jedným stlačením, displej, hadička na mlieko, mliečny systém, automatické čistenie mliečnych okruhov, automatické preplachovanie a kontrola výmeny vodného filtra, výškovo nastaviteľný výpust, nastavenie teploty nápoja, intenzity/množstva kávy, veľkosti nápoja, kompatibilný s JURA J,O,E,®, rozmery 34,8 × 27 × 44,6 cm (V×Š×H), hmotnosť 10 kg"
+        },
+        {
+            "img": "https://image.alza.cz/products/APWBTE120w/APWBTE120w.jpg?width=190&height=190",
+            "eur": 59.9,
+            "title": "AlzaPower Boost ULTRA ANC, biela",
+            "url": "https://www.alza.sk/alzapower-boost-ultra-anc-biela-d13022014.htm",
+            "rating": 4.5,
+            "rating_count": 36,
+            "category": [1],
+            "desc": "Bezdrôtové slúchadlá – štuple, s integrovanými mikrofónmi, True Wireless, hybridné potlačenie hluku ANC (-46 dB), 6 mikrofónov, uzavretá konštrukcia, Bluetooth 5.3, podpora AAC, SBC a LDAC, hlasový asistent, prepínanie ANC, prepínanie skladieb, prijímanie hovorov, režim nízkej latencie, frekvenčný rozsah 20 – 20 000 Hz, max. výdrž batérie 34 h, v režime Stand-by 43 h, doba nabíjania slúchadiel a puzdra 2 h, stupeň krytia IPX4, súčasťou vymeniteľné štuple a nabíjací kábel"
+        },
+        {
+            "img": "https://image.alza.cz/products/SGR_AD_C680E/SGR_AD_C680E.jpg?width=190&height=190",
+            "eur": 35.9,
+            "title": "Siguro Dainty Cactus keramický C680E",
+            "url": "https://www.alza.sk/siguro-dainty-cactus-keramicky-c680e-d13081416.htm",
+            "rating": 4.7,
+            "rating_count": 69,
+            "category": [1],
+            "desc": "Aróma difuzér – telo z keramiky a dreva, objem nádoby 100 ml, príkon 5 W, tichá prevádzka (30-36 dB), automatické vypnutie, 7 farieb podsvietenia, odporúčaná veľkosť miestnosti 10–20 m², je možné používať aj ako zvlhčovač, intenzita zvlhčovania 10–20 ml/h, doba prevádzky 5–7 hodín, dĺžka napájacieho USB kábla 100 cm, Tri roky záruka"
+        },
+        {
+            "img": "https://image.alza.cz/products/NT379x125/NT379x125.jpg?width=190&height=190",
+            "eur": 1469,
+            "title": "Lenovo LOQ 15IRX10 Luna Grey",
+            "url": "https://www.alza.sk/lenovo-loq-15irx10-luna-grey-d13128085.htm",
+            "rating": 3.7,
+            "rating_count": 3,
+            "category": [1],
+            "desc": "Herný notebook – Intel Core i7 13650HX Raptor Lake, 15,6\" IPS antireflexný 2560 × 1440 165 Hz, RAM 32 GB DDR5, NVIDIA GeForce RTX 5070 8 GB 115 W (MUX Switch), SSD 1000 GB, numerická klávesnica, podsvietená RGB klávesnica, webkamera, USB 3.2 Gen 1, USB-C, WiFi 6, hmotnosť 2,4 kg, bez operačného systému"
+        },
+        {
+            "img": "https://image.alza.cz/products/SGR_AD_K355Y/SGR_AD_K355Y.jpg?width=190&height=190",
+            "eur": 49.9,
+            "title": "Siguro Koala’s Lullaby K355Y",
+            "url": "https://www.alza.sk/siguro-koalas-lullaby-k355y-d13081421.htm",
+            "rating": 4.1,
+            "rating_count": 17,
+            "category": [1],
+            "desc": "Aróma difuzér – detský, roztomilý motív koaly, vyrobené z recyklovaného plastu, slamy a škrupinového prášku, príkon 5 W, objem nádoby 90 ml, automatické vypnutie, jemné podsvietenie (2 režimy), vstavaný reproduktor so 4 melódiami, tichá prevádzka 36 dB, odporúčaná veľkosť miestnosti až 30 m², intenzita zvlhčovania až 20 ml/h, doba prevádzky až 4 h, dĺžka napájacieho USB kábla 150 cm, Tri roky záruka"
+        },
+        {
+            "img": "https://image.alza.cz/products/APWBTE190b/APWBTE190b.jpg?width=190&height=190",
+            "eur": 21.9,
+            "title": "AlzaPower Buds Go, čierne",
+            "url": "https://www.alza.sk/alzapower-buds-go-cierne-d13022012.htm",
+            "rating": 4,
+            "rating_count": 3,
+            "category": [1],
+            "desc": "Bezdrôtové slúchadlá – štuple, 2 integrované mikrofóny, True Wireless, uzavretá konštrukcia, Bluetooth 5.3, podpora kodekov AAC a SBC, hlasový asistent, prepínanie skladieb, prijímanie hovorov, režim nízkej latencie, frekvenčný rozsah 20 – 20 000 Hz, max. výdrž batérie 32 h, v režime Stand-by 84 h, doba nabíjania slúchadiel a puzdra 2 h, stupeň krytia IPX4, súčasťou vymeniteľné štuple a nabíjací kábel"
+        },
+        {
+            "img": "https://image.alza.cz/products/APWBTE060b/APWBTE060b.jpg?width=190&height=190",
+            "eur": 33.9,
+            "title": "AlzaPower Core PLUS čierna",
+            "url": "https://www.alza.sk/alzapower-core-plus-cierna-d12654091.htm",
+            "rating": 4,
+            "rating_count": 1,
+            "category": [1],
+            "desc": "Bezdrôtové slúchadlá – semi in-ear slúchadlá, so 4 integrovanými mikrofónmi, True Wireless, potlačenie šumu ENC, uzavretá konštrukcia, Bluetooth 5.3, podpora kodekov AAC a SBC, hlasový asistent, prepínanie skladieb, prijímanie hovorov, režim nízkej latencie, frekvenčný rozsah 20 – 20 000 Hz, max. výdrž batérie 26 h, v režime Stand-by 101 h, doba nabíjania slúchadiel a puzdra 2 h, stupeň krytia IPX4"
+        },
+        {
+            "img": "https://image.alza.cz/products/ETK800Sa/ETK800Sa.jpg?width=190&height=190",
+            "eur": 57.9,
+            "title": "Eternico K800S Wireless sivá – CZ/SK",
+            "url": "https://www.alza.sk/eternico-k800s-wireless-siva-cz-sk-d13135873.htm",
+            "rating": 4.5,
+            "rating_count": 3,
+            "category": [1],
+            "desc": "Klávesnica – bezdrôtová, vhodná do kancelárie, domácnosti aj na hranie, ISO, 75 % formát (84 kláves), pripojenie až k 5 zariadeniam (1× 2,4 GHz USB prijímač, 3× Bluetooth 5.0 a 1× USB-C kábel), taktilné spínače Gateron Brown, vstavaná 3 750 mAh batéria, úsporný režim, 12 multimediálnych klávesov, RGB podsvietenie s 22 režimami, zámok klávesy Win, prepínanie medzi Windows a macOS, Plug & Play, česká a slovenská lokalizácia klávesov, opletený nabíjací USB kábel v balení (1,5 m)"
+        },
+        {
+            "img": "https://image.alza.cz/products/APWBTE110w/APWBTE110w.jpg?width=190&height=190",
+            "eur": 28.9,
+            "title": "AlzaPower Mesa Go, biela",
+            "url": "https://www.alza.sk/alzapower-mesa-go-biela-d13022011.htm",
+            "rating": 3.2,
+            "rating_count": 9,
+            "category": [1],
+            "desc": "Bezdrôtové slúchadlá – náhlavné, s integrovaným mikrofónom, uzavretá konštrukcia, Bluetooth 5.3, podpora AAC, SBC, Bass Boost, hlasový asistent, prepínanie skladieb, prijímanie hovorov, režim nízkej latencie, ovládanie hlasitosti, frekvenčný rozsah 20 – 20 000 Hz, max. výdrž batérie až 60 h, v režime Stand-by až 300 h, doba nabíjania 2 h, stupeň krytia IPX4, súčasťou 3,5 mm audio kábel, nabíjací kábel USB-C a cestovná taštička"
+        },
+        {
+            "img": "https://image.alza.cz/products/SGR_EK_T860GL/SGR_EK_T860GL.jpg?width=190&height=190",
+            "eur": 59.9,
+            "title": "Siguro Hobart T860GL",
+            "url": "https://www.alza.sk/siguro-hobart-t860gl-d13087292.htm",
+            "rating": 4,
+            "rating_count": 30,
+            "category": [1],
+            "desc": "Rýchlovarná kanvica – s vyberateľným sitkom na čaj, 6 prednastavených teplôt, objem 1,7 l, príkon 1 500 W, britský Strix konektor so životnosťou viac ako 12 000 použití, 360° otočná základňa s priestorom pre kábel, materiál sklo, dotykové ovládanie, funkcie udržiavania teploty (až 2 hodiny), automatické vypnutie pri nedostatku vody a dosiahnutí nastavenej teploty, skrytá tepelná špirála, dĺžka kábla 75 cm, 3 roky záruka"
+        },
+        {
+            "img": "https://image.alza.cz/products/RPTGM003a/RPTGM003a.jpg?width=190&height=190",
+            "eur": 28.9,
+            "title": "Rapture COBRA čierna",
+            "url": "https://www.alza.sk/rapture-cobra-cierna-d6900118.htm",
+            "rating": 4.5,
+            "rating_count": 707,
+            "category": [2],
+            "desc": "Herná myš - bezdrôtová, optický senzor Pixart PAW3325, 800 – 1200 – 2000 – 3200 – 5000 DPI, odozva 1 ms, tracking speed 100 IPS, akcelerácia: 20 G, RGB podsvietenie (7 režimov podsvietenia), 7 programovateľných tlačidiel, spínače Omron, životnosť až 10000000 kliknutí, Plug & Play, 2.4 GHz USB-A prijímač alebo USB kábel, dosah až 10 m, 900 mAh zabudovaná batéria, USB-C konektor, dĺžka kábla: 1.8 m, opletený kábel, hmotnosť myši: 118 g, softvér (zmena DPI, podsvietenia, makra)"
+        },
+        {
+            "img": "https://image.alza.cz/products/RPTGD0520/RPTGD0520.jpg?width=190&height=190",
+            "eur": 159.9,
+            "title": "Rapture AURORA 300 čierny",
+            "url": "https://www.alza.sk/gaming/rapture-aurora-300-cierny-d6796636.htm",
+            "rating": 4.7,
+            "rating_count": 54,
+            "category": [2],
+            "desc": "Herný stôl – oceľová konštrukcia, vstavané RGB podsvietenie hracej plochy, výška stola 76cm, rozmery dosky 120×60cm, povrch z tvrdeného skla, držiak na nápoje a háčik na slúchadlá, pracovná plocha so zakrivenými hranami, výškovo nastaviteľné vyrovnávacie podložky, nosnosť 100kg"
+        },
+        {
+            "img": "https://image.alza.cz/products/RPTGMK003b/RPTGMK003b.jpg?width=190&height=190",
+            "eur": 32.9,
+            "title": "Rapture X-RAY Outemu Red čierna - CZ/SK",
+            "url": "https://www.alza.sk/rapture-x-ray-outemu-cz-sk?dq=6900089",
+            "rating": 4.6,
+            "rating_count": 375,
+            "category": [2],
+            "desc": "Herná klávesnica – drôtová, mechanická, vysokoprofilové klávesy, Full-size (104 klávesov), 12 multimediálnych klávesov, RGB podsvietenie (18 režimov), mechanické lineárne spínače Outemu Red, životnosť až 50 miliónov kliknutí, double-injected keycaps, zámok tlačidla Windows, N-Key rollover, Plug&Play, česká a slovenská lokalizácia, opletený kábel, USB-A, dĺžka kábla 180cm"
+        },
+        {
+            "img": "https://image.alza.cz/products/RPTGC0150f/RPTGC0150f.jpg?width=190&height=190",
+            "eur": 179.9,
+            "title": "Rapture NEST modrá",
+            "url": "https://www.alza.sk/rapture-gaming-chair-nest-modra-d6922178.htm",
+            "rating": 4.4,
+            "rating_count": 157,
+            "category": [2],
+            "desc": "Herná stolička – chrbtová opierka nastaviteľná v rozsahu 90°–150°, výškovo a uhlovo nastaviteľné opierky rúk, vankúše na podporu krčnej a bedrovej chrbtice, výškovo nastaviteľné sedadlo, možnosť aretácie chrbtovej opierky v ľubovoľnej pozícii, nastaviteľný odpor hojdania, syntetická koža, otočná konštrukcia, tvrdé kolieska vhodné na koberce, nosnosť 120kg"
+        },
+        {
+            "img": "https://image.alza.cz/products/RPTGMK003d/RPTGMK003d.jpg?width=190&height=190",
+            "eur": 32.9,
+            "title": "Rapture X-RAY Outemu Red biela",
+            "url": "https://www.alza.sk/rapture-x-ray-outemu-cz-sk?dq=6900092",
+            "rating": 4.7,
+            "rating_count": 195,
+            "category": [2],
+            "desc": "Herná klávesnica – drôtová, mechanická, vysokoprofilové klávesy, Full-size (104 klávesov), 12 multimediálnych klávesov, RGB podsvietenie (18 režimov), mechanické lineárne spínače Outemu Red, životnosť až 50 miliónov kliknutí, double-injected keycaps, zámok tlačidla Windows, N-Key rollover, Plug & Play, česká a slovenská lokalizácia, opletený kábel, USB-A, dĺžka kábla 180 cm"
+        },
+        {
+            "img": "https://image.alza.cz/products/RPTMP201a/RPTMP201a.jpg?width=190&height=190",
+            "eur": 11.9,
+            "title": "Rapture RESPAWN XL čierna",
+            "url": "https://www.alza.sk/rapture-respawn?dq=7859410",
+            "rating": 4.7,
+            "rating_count": 1135,
+            "category": [2],
+            "desc": "Podložka pod myš a klávesnicu – veľkosť XL, opletené okraje, protišmyková spodná vrstva, materiál textil (polyester) a guma, farba čierna, rozmery 900 × 300 × 4 mm"
+        },
+        {
+            "img": "https://image.alza.cz/products/RPTGEK001a/RPTGEK001a.jpg?width=190&height=190",
+            "eur": 19.9,
+            "title": "Rapture Cadet K-573 čierna – CZ/SK",
+            "url": "https://www.alza.sk/rapture-cadet-k-573-cierna-czsk-d7378589.htm",
+            "rating": 4.6,
+            "rating_count": 377,
+            "category": [2],
+            "desc": "Herná klávesnica – membránový spínač, drôtová, dynamické podsvietenie, klasické (vysokoprofilové) klávesy, česká a slovenská lokalizácia klávesov, USB-A, tichá, čierna farba, rozmery 3,4 × 44,1 × 17,6 cm (V×Š×H)"
+        },
+        {
+            "img": "https://image.alza.cz/products/RPTGC0400b/RPTGC0400b.jpg?width=190&height=190",
+            "eur": 347.9,
+            "title": "Rapture GALLEY čierna",
+            "url": "https://www.alza.sk/rapture-galley-cierna-d7507005.htm",
+            "rating": 4.7,
+            "rating_count": 82,
+            "category": [2],
+            "desc": "Herná stolička – poťah textil, hojdacia mechanika, s aretáciou, bedrová a hlavová opierka, výška, rotácia hornej časti, posun dopredu/dozadu a posun doľava/doprava podrúčky, otočná a kovová konštrukcia, výplň sedadla molitan (PUR pena), materiál kríža kov, plastové kolieska, čierna, oranžová a sivá farba, nosnosť 120 kg"
+        },
+        {
+            "img": "https://image.alza.cz/products/RPTMP202a/RPTMP202a.jpg?width=190&height=190",
+            "eur": 6.09,
+            "title": "Rapture RESPAWN M čierna",
+            "url": "https://www.alza.sk/rapture-respawn?dq=7855260",
+            "rating": 4.7,
+            "rating_count": 1135,
+            "category": [2],
+            "desc": "Podložka pod myš – veľkosť M, opletené okraje, protišmyková spodná vrstva, materiál textil (polyester) a guma, farba čierna, rozmery 320 × 270 × 4 mm"
+        },
+        {
+            "img": "https://image.alza.cz/products/RPTMP002i/RPTMP002i.jpg?width=190&height=190",
+            "eur": 17.9,
+            "title": "Rapture RESPAWN GLOW 2.0 XL čierna",
+            "url": "https://www.alza.sk/rapture-respawn-glow-2-0-xl-cierna-d7843531.htm",
+            "rating": 4.7,
+            "rating_count": 175,
+            "category": [2],
+            "desc": "Podložka pod myš – veľkosť XL, RGB podsvietenie (14 režimov), 2 úrovne jasu podsvietenia, ovládací panel s USB-C konektorom a tlačidlami na vypnutie a zmenu režimu podsvietenia, protišmyková spodná vrstva, materiál textil (polyester) a guma, rozmery 900 × 300 × 3 mm"
+        },
+        {
+            "img": "https://image.alza.cz/products/RPTGC0370b/RPTGC0370b.jpg?width=190&height=190",
+            "eur": 245.9,
+            "title": "Rapture FRIGATE čierna",
+            "url": "https://www.alza.sk/rapture-frigate-cierna-d7507004.htm",
+            "rating": 4.8,
+            "rating_count": 40,
+            "category": [2],
+            "desc": "Herná stolička – materiály poťahu: syntetická koža, hojdacia mechanika, s aretáciou, bedrová a hlavová opierka, výška, rotácia hornej časti a posun dopredu/dozadu podrúčky, otočná a kovová konštrukcia, výplň sedadla molitan (PUR pena), materiál kríža kov, plastové kolieska, čierna a oranžová farba, nosnosť 120 kg"
+        },
+        {
+            "img": "https://image.alza.cz/products/RPTMA0516/RPTMA0516.jpg?width=190&height=190",
+            "eur": 68.9,
+            "title": "Rapture BLACKOUT DXL II oranžový",
+            "url": "https://www.alza.sk/rapture-blackout-dxl-ii-oranzovy-d9830884.htm",
+            "rating": 4.5,
+            "rating_count": 29,
+            "category": [2],
+            "desc": "Držiak na monitor – na stôl, s priechodkou stolom, na 2 monitory veľkosti 17 až 32“, vhodný aj na zakrivený monitor, RGB osvetlenie, maximálne: zaťaženie 9 kg pre každý monitor, náklon + 55°/- 55°, natočenie 90°, rotácia 360°, integrovaná zarážka rotácie 180°, kompatibilný s VESA 100 × 100 a 75 × 75 mm, ramená s mechanickou pružinou, správa káblov, vstavané spínacie tlačidlo na ovládanie režimov osvetlenia"
+        },
+        {
+            "img": "https://image.alza.cz/products/RPTGD0550/RPTGD0550.jpg?width=190&height=190",
+            "eur": 301.9,
+            "title": "Rapture ALTAR 200 čierny",
+            "url": "https://www.alza.sk/gaming/rapture-altar-200-cierny-d7517683.htm",
+            "rating": 4.7,
+            "rating_count": 32,
+            "category": [2],
+            "desc": "Herný stôl – výška stola 122 cm, rozmery dosky 140 × 65 cm, vlastnosti: nastaviteľná výška, LED podsvietenie, nastaviteľné svetelné efekty, držiak na nápoje a háčik na slúchadlá, nosnosť 90 kg, čierna farba"
+        }
+    ]
+}
+
+
+
